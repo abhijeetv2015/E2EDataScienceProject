@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+# Editable installation makes source code changes take effect immediately without requiring the package to be reinstalled.
+-e .
+
